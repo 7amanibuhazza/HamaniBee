@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": "Bee time!",
+    "pack_format": 101
+  },
+  "features": {
+    "enabled": [
+      "minecraft:vanilla"
+    ]
+  }
+}
