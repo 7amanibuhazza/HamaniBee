@@ -1,0 +1,20 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:bees": [
+      {
+        "entity_data": {
+          "id": "minecraft:bee",
+          "HasVisualFire": true,
+          "OnGround": false,
+          "NoGravity": true,
+          "Invulnerable": false,
+          "PortalCooldown": 0
+        },
+        "min_ticks_in_hive": 0,
+        "ticks_in_hive": 0
+      }
+    ]
+  },
+  "conditions": []
+}
